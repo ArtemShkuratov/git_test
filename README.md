@@ -1,0 +1,1 @@
+This is Artem Shkuratov's first git project
